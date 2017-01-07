@@ -14,15 +14,15 @@ baseurl: '' #change it according to your repository name
 
 #Profile information
 name: Thiago Back Adelino
-tagline: Full Stack DBA DEVELOPER 
+tagline: FULL STACK DBA DEVELOPER 
 pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
 email: thiagobackadelino@gmail.com
 phone: 011 97214-5989
-website: blog.webjeda.com #do not add http://
+youtube:  thiagobackadelino #do not add http://
 linkedin: thiagobackadelino
 github: thiagobackadelino
-twitter: '@thiagobackadelino'
+twitter: '@tbackadelino'
 
 #Update all the sections by editing the files inside _includes folder.
